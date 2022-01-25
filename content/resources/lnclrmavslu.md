@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-310-laboratory-chemistry-fall-2019/7a1b83527da1f30052dc987cf03b9d7a_LNCLrmAvSlU.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 7a1b8352-7da1-f300-52dc-987cf03b9d7a
+---
